@@ -1,0 +1,7 @@
+codigo, nombre, precio, cantidad, disponible
+001, Cuaderno, 2500.5, 10, true
+002, Lapicera, 800, 25, true
+003, Carpeta, 3200.0, 8, true
+004, Regla, 500, , false
+005, Mochila, 15000.0, 3, true
+006, Goma, 300.5, 50, true

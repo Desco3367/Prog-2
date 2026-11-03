@@ -1,0 +1,4 @@
+id_envio; destino; costo; entregado
+101; Rosario; 4500.0; true
+102; Cordoba; 6200.5; false
+103; Buenos Aires; 5100; true
